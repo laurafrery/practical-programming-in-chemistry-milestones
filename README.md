@@ -9,7 +9,7 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/laurafrery                                               | 
 | 1    | Github Profile Page                         | https://github.com/laurafrery/laurafrery                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/laurafrery/practical-programming-in-chemistry-milestones/commit/`commit-nr`                |
+| 1    | Commit and Push Change from Command Line    | https://github.com/laurafrery/practical-programming-in-chemistry-milestones/commit/`41dc19a`                |
 | 1    | Create a New Branch                         | https://github.com/laurafrery/practical-programming-in-chemistry-milestones/tree/first-branch            |
 | 1    | Create a conda environment                  | https://github.com/laurafrery/practical-programming-in-chemistry-milestones/blob/first-branch/env.yml      |
 | 1    | Fork a Repo                                 | https://github.com/laurafrery/practical-programming-in-chemistry-milestones |
